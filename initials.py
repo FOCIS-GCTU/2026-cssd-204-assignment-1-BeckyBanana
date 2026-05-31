@@ -18,26 +18,35 @@ def main():
   print("...RLM")
   print()
 
-  print("...RRRRRRRRR.....LL..............MMM........MMM.....")
-  print("...RRR.....RRR...LL..............MMMM......MMMM.....")
-  print("...RRR.....RRR...LL..............MMMMM....MMMMM.....")
-  print("...RRR.....RRR...LL..............MMM.MM..MM.MMM.....")
-  print("...RRRRRRRRR.....LL..............MMM..MMMM..MMM.....")
-  print("...RRRRRR........LL..............MMM...MM...MMM.....")
-  print("...RRR..RRR......LL..............MMM........MMM.....")
-  print("...RRR...RRR.....LL..............MMM........MMM.....")
-  print("...RRR.....RRR...LLLLLLLLLLLL....MMM........MMM...**")
-  print("...RRR......RRR..LLLLLLLLLLLL....MMM........MMM...**")
-
+  print("...RRRRRRRRRR......LLL.........MMM........MMM...............")
+  print("...RRRRRRRRRRR.....LLL.........MMMM......MMMM...............")
+  print("...RRR.....RRR.....LLL.........MMMMM....MMMMM...............")
+  print("...RRR.....RRR.....LLL.........MMM.MM..MM.MMM...............")
+  print("...RRRRRRRRRRR.....LLL.........MMM..MMMM..MMM...............")
+  print("...RRR...RRR.......LLL.........MMM...MM...MMM...............")
+  print("...RRR....RRR......LLL.........MMM........MMM...............")
+  print("...RRR.....RRR.....LLL.........MMM........MMM...............")
+  print("...RRR......RRR..**LLLLLLLLLL**MMM........MMM...**..........")
+  print("...RRR.......RRR.**LLLLLLLLLL**MMM........MMM...**..........")
+  
   print()
 
-  main()
+
+main()
+   
+  
+
+
+
+
+
+  
  
 
   
 
 
-                                                                                                                                                            ass #code goes here
+pass #code goes here
 
 
 
